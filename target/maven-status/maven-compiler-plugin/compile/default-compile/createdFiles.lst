@@ -1,0 +1,10 @@
+me/apeiros/villagerutil/items/wands/TradeWand.class
+me/apeiros/villagerutil/commands/ResetVillagerCommand.class
+me/apeiros/villagerutil/VillagerUtil.class
+me/apeiros/villagerutil/items/wands/CureWand.class
+me/apeiros/villagerutil/util/UUIDTagType.class
+me/apeiros/villagerutil/items/wands/NitwitWand.class
+me/apeiros/villagerutil/items/TransportCharm.class
+me/apeiros/villagerutil/items/wands/TransportWand.class
+me/apeiros/villagerutil/util/Utils.class
+me/apeiros/villagerutil/Setup.class
